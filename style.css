@@ -1,0 +1,8 @@
+#contenedorTiempo{
+    display: grid;
+    place-content: center;
+}
+
+#contenedorTiempo h1{
+    text-align: center;
+}
